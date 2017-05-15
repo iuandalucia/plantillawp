@@ -1,0 +1,6 @@
+#: header.php:61
+msgid "Logged in as <a href="%s/wp-admin/profile.php">%s</a>."
+msgstr "Logueado como <a href="%s/wp-admin/profile.php">%s</a>."
+
+msgid "&hellip; Continue reading <i class='glyphicon glyphicon-arrow-right'></i>"
+msgstr "&hellip; Sigue leyendo <i class='glyphicon glyphicon-arrow-right'></i>"
